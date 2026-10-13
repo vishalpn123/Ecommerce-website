@@ -56,3 +56,6 @@ git push -u origin main
 - Add admin dashboard, order status management, shipping/tax rules and inventory locking
 - Integrate hosted checkout (e.g. Razorpay/Stripe test mode) and verify webhooks server-side
 - Add screenshots, architecture diagram, API docs, and a short demo video to README
+
+## License 
+Free and open-source. For academic/educational use at New Technology Career Solutions.
